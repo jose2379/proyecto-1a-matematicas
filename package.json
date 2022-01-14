@@ -1,6 +1,6 @@
 {
   "name": "proyecto-1a-matematicas_mired",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Proyecto inicial del curso. Matemáticas simples.",
   "main": "index.js",
   "scripts": {
